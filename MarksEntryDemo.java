@@ -56,7 +56,7 @@ class MarkEntry {
 }
 
 // Main class with the entry point
-public class MaxEntryDemo {
+public class MarksEntryDemo {
     public static void main(String[] args) {
         MarkEntry markEntry = new MarkEntry();
         
